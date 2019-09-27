@@ -1,3 +1,4 @@
+forked by NTS.
 
 Chương trình tách từ vnTokenizer, version 4.1.1.
 ================================================
